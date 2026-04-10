@@ -40,6 +40,7 @@ Using a screensaver with a flat panel or [TFT LCD screen](https://en.wikipedia.o
 Thus the term "screen saver" is now something of a misnomer – the best way to save the screen and also save electricity consumed by screen would simply be to have the computer turn off the monitor. Screensavers displaying complex 3D graphics might even add to overall power draw.
 
 # Update list:
+* [Matrix]([Matrix](https://github.com/Real-hackbard/Screensavers/tree/main/Matrix))
 
 
 
