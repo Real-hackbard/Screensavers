@@ -41,6 +41,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 
 # Update list:
 * [Matrix](https://github.com/Real-hackbard/Screensavers/tree/main/Matrix)
+* [Pixelated Gravity](https://github.com/Real-hackbard/Screensavers/tree/main/Pixelated%20Gravity)
 
 
 
