@@ -26,6 +26,13 @@ A monitor controlled by a screensaver consumes the same amount of power as when 
 
 Using a screensaver with a flat panel or [TFT LCD screen](https://en.wikipedia.org/wiki/TFT_LCD) not powering down the screen can actually decrease the lifetime of the display, since the fluorescent backlight remains lit and ages faster than it would if the screen is turned off and on frequently. As fluorescent tubes age they grow progressively dimmer, and they can be expensive or difficult to replace. A typical LCD screen loses about 50% of its brightness during a normal product lifetime. In most cases, the tube is an integral part of the LCD and the entire assembly needs to be replaced. This is not true of LED backlit displays.
 
+</br>
+
+![pipe](https://github.com/user-attachments/assets/170b03de-027b-43ef-af00-d9aeae680e19)
+
+</br>
+
+
 Thus the term "screen saver" is now something of a misnomer – the best way to save the screen and also save electricity consumed by screen would simply be to have the computer turn off the monitor. Screensavers displaying complex 3D graphics might even add to overall power draw.
 
 # Update list:
