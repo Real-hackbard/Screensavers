@@ -10,7 +10,17 @@
 
 </br>
 
-A screensaver is software that controls a monitor of the host computer with the intent of preventing [screen burn-in](https://en.wikipedia.org/wiki/Screen_burn-in) for a screen susceptible to it. Generally, a screensaver starts controlling a monitor when the computer has been idle for a designated period of time and fills the screen either with black (all pixels off) or with changing graphics that tend to prevent each pixel from being on for a long time. Although monitors were commonly constructed with screen technology that was susceptible to burn-in (CRT and plasma), most modern monitors are LCD which are not. Another modern technology, OLED, is susceptible.
+A screensaver is software that controls a monitor of the host computer with the intent of preventing [screen burn-in](https://en.wikipedia.org/wiki/Screen_burn-in) for a screen susceptible to it. Generally, a screensaver starts controlling a monitor when the computer has been idle for a designated period of time and fills the screen either with black (all pixels off) or with changing graphics that tend to prevent each pixel from being on for a long time. Although monitors were commonly constructed with screen technology that was susceptible to burn-in ([CRT](https://en.wikipedia.org/wiki/Cathode_ray_tube) and [plasma](https://en.wikipedia.org/wiki/Plasma_display)), most modern monitors are LCD which are not. Another modern technology, OLED, is susceptible.
+
+</br>
+
+![spheres](https://github.com/user-attachments/assets/a1300371-2683-4c0b-8053-e523e7816903)
+
+</br>
+
+In addition to the feature described by its name (saving a screen from burn-in), a screensaver may provide other features. It may provide physical security by requiring a password to exit the screen control mode. Some use otherwise-idle computer resources to do useful work, such as processing for [volunteer computing](https://en.wikipedia.org/wiki/Volunteer_computing) projects.
+
+Many modern devices such as televisions and other digital entertainment devices include a screensaver.
 
 
 
