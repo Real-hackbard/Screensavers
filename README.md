@@ -28,7 +28,7 @@ Using a screensaver with a flat panel or [TFT LCD screen](https://en.wikipedia.o
 
 </br>
 
-### Screensaver Pipe:
+### Classic Screensaver Pipe:
 
 </br>
 
