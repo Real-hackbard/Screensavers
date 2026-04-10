@@ -10,6 +10,8 @@
 
 </br>
 
+A screensaver is software that controls a monitor of the host computer with the intent of preventing [screen burn-in](https://en.wikipedia.org/wiki/Screen_burn-in) for a screen susceptible to it. Generally, a screensaver starts controlling a monitor when the computer has been idle for a designated period of time and fills the screen either with black (all pixels off) or with changing graphics that tend to prevent each pixel from being on for a long time. Although monitors were commonly constructed with screen technology that was susceptible to burn-in (CRT and plasma), most modern monitors are LCD which are not. Another modern technology, OLED, is susceptible.
+
 
 
 
