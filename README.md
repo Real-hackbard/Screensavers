@@ -43,6 +43,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Matrix](https://github.com/Real-hackbard/Screensavers/tree/main/Matrix)
 * [Pixelated Gravity](https://github.com/Real-hackbard/Screensavers/tree/main/Pixelated%20Gravity)
 * [Sand Fall](https://github.com/Real-hackbard/Screensavers/tree/main/Sand%20Fall)
+* [Spheres](https://github.com/Real-hackbard/Screensavers/tree/main/Spheres)
 
 
 
