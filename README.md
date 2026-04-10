@@ -22,6 +22,12 @@ In addition to the feature described by its name (saving a screen from burn-in),
 
 Many modern devices such as televisions and other digital entertainment devices include a screensaver.
 
+A monitor controlled by a screensaver consumes the same amount of power as when the screensaver is not controlling it, which can be anywhere from a few watts for small LCD monitors to several hundred for large plasma displays. Most modern computers can be set to switch the monitor into a lower power mode, blanking the screen altogether. A power-saving mode for monitors is usually part of the power management options supported in modern operating systems, though it must also be supported by the computer hardware and monitor itself.
+
+Using a screensaver with a flat panel or [TFT LCD screen](https://en.wikipedia.org/wiki/TFT_LCD) not powering down the screen can actually decrease the lifetime of the display, since the fluorescent backlight remains lit and ages faster than it would if the screen is turned off and on frequently. As fluorescent tubes age they grow progressively dimmer, and they can be expensive or difficult to replace. A typical LCD screen loses about 50% of its brightness during a normal product lifetime. In most cases, the tube is an integral part of the LCD and the entire assembly needs to be replaced. This is not true of LED backlit displays.
+
+Thus the term "screen saver" is now something of a misnomer – the best way to save the screen and also save electricity consumed by screen would simply be to have the computer turn off the monitor. Screensavers displaying complex 3D graphics might even add to overall power draw.
+
 
 
 
