@@ -10,6 +10,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Matrix |
 | 1.0.x   | :white_check_mark: Pixelated Gravity |
 | 1.0.x   | :white_check_mark: Sand Fall |
+| 1.0.x   | :white_check_mark: Pixel Swarm |
 
 ## Reporting a Vulnerability
 
