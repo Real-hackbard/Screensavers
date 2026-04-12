@@ -46,6 +46,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Spheres](https://github.com/Real-hackbard/Screensavers/tree/main/Spheres)
 * [Pixel Swarm](https://github.com/Real-hackbard/Screensavers/tree/main/Pixel%20Swarm)
 * [Flash](https://github.com/Real-hackbard/Screensavers/tree/main/Flash)
+* [Football](https://github.com/Real-hackbard/Screensavers/tree/main/Football)
 
 
 
