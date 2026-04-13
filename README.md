@@ -47,6 +47,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Pixel Swarm](https://github.com/Real-hackbard/Screensavers/tree/main/Pixel%20Swarm)
 * [Flash](https://github.com/Real-hackbard/Screensavers/tree/main/Flash)
 * [Football](https://github.com/Real-hackbard/Screensavers/tree/main/Football)
+* [Matrix TrueType Font](https://github.com/Real-hackbard/Screensavers/tree/main/Matrix%20TrueType%20Font)
 
 
 
