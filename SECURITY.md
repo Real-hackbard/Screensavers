@@ -16,6 +16,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Matrix TrueType Font |
 | 1.0.x   | :white_check_mark: Blood Drops |
 | 1.0.x   | :white_check_mark: Silvester Particels |
+| 1.0.x   | :white_check_mark: Torus Diversity |
 
 ## Reporting a Vulnerability
 
