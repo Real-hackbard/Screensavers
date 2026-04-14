@@ -50,6 +50,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Matrix TrueType Font](https://github.com/Real-hackbard/Screensavers/tree/main/Matrix%20TrueType%20Font)
 * [Blood Drops](https://github.com/Real-hackbard/Screensavers/tree/main/Blood%20Drops)
 * [Silvester Particels](https://github.com/Real-hackbard/Screensavers/tree/main/Silvester%20Particels)
+* [Torus Diversity](https://github.com/Real-hackbard/Screensavers/tree/main/Torus%20Diversity)
 
 
 
