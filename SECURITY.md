@@ -17,6 +17,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Blood Drops |
 | 1.0.x   | :white_check_mark: Silvester Particels |
 | 1.0.x   | :white_check_mark: Torus Diversity |
+| 1.0.x   | :white_check_mark: Airplane |
 
 ## Reporting a Vulnerability
 
