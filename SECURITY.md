@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Football |
 | 1.0.x   | :white_check_mark: Matrix TrueType Font |
 | 1.0.x   | :white_check_mark: Blood Drops |
+| 1.0.x   | :white_check_mark: Silvester Particels |
 
 ## Reporting a Vulnerability
 
