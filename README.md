@@ -52,6 +52,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Silvester Particels](https://github.com/Real-hackbard/Screensavers/tree/main/Silvester%20Particels)
 * [Torus Diversity](https://github.com/Real-hackbard/Screensavers/tree/main/Torus%20Diversity)
 * [Airplane](https://github.com/Real-hackbard/Screensavers/tree/main/Airplane)
+* [Fire](https://github.com/Real-hackbard/Screensavers/tree/main/Fire)
 
 
 
