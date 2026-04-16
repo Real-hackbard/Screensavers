@@ -19,6 +19,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Torus Diversity |
 | 1.0.x   | :white_check_mark: Airplane |
 | 1.0.x   | :white_check_mark: Fire |
+| 1.0.x   | :white_check_mark: Smoke |
 
 ## Reporting a Vulnerability
 
