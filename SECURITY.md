@@ -20,6 +20,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Airplane |
 | 1.0.x   | :white_check_mark: Fire |
 | 1.0.x   | :white_check_mark: Smoke |
+| 1.0.x   | :white_check_mark: Screen Shaker |
 
 ## Reporting a Vulnerability
 
