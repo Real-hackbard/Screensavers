@@ -56,6 +56,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Smoke](https://github.com/Real-hackbard/Screensavers/tree/main/Smoke)
 * [Screen Shaker](https://github.com/Real-hackbard/Screensavers/tree/main/Screen%20Shaker)
 * [Waves](https://github.com/Real-hackbard/Screensavers/tree/main/Waves)
+* [Super Torus-3D](https://github.com/Real-hackbard/Screensavers/tree/main/Super%20Torus-3D)
 
 
 
