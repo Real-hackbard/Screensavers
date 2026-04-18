@@ -22,6 +22,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Smoke |
 | 1.0.x   | :white_check_mark: Screen Shaker |
 | 1.0.x   | :white_check_mark: Waves |
+| 1.0.x   | :white_check_mark: Super Torus-3D |
 
 ## Reporting a Vulnerability
 
