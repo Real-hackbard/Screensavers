@@ -24,6 +24,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Waves |
 | 1.0.x   | :white_check_mark: Super Torus-3D |
 | 1.0.x   | :white_check_mark: Lights-3D |
+| 1.0.x   | :white_check_mark: Mirrors |
 
 ## Reporting a Vulnerability
 
