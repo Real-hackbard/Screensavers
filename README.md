@@ -60,6 +60,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Lights-3D](https://github.com/Real-hackbard/Screensavers/tree/main/Lights-3D)
 * [Mirrors](https://github.com/Real-hackbard/Screensavers/tree/main/Mirrors)
 * [Tunnel](https://github.com/Real-hackbard/Screensavers/tree/main/Tunnel)
+* [Triangle Arrows](https://github.com/Real-hackbard/Screensavers/tree/main/Triangle%20Arrows)
 
 
 
