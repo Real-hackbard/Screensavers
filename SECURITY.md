@@ -26,6 +26,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Lights-3D |
 | 1.0.x   | :white_check_mark: Mirrors |
 | 1.0.x   | :white_check_mark: Tunnel |
+| 1.0.x   | :white_check_mark: Triangle Arrows |
 
 ## Reporting a Vulnerability
 
