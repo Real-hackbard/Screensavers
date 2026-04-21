@@ -27,6 +27,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Mirrors |
 | 1.0.x   | :white_check_mark: Tunnel |
 | 1.0.x   | :white_check_mark: Triangle Arrows |
+| 1.0.x   | :white_check_mark: Terrain Render |
 
 ## Reporting a Vulnerability
 
