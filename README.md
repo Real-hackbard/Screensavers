@@ -64,6 +64,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Terrain Render](https://github.com/Real-hackbard/Screensavers/tree/main/Terrain%20Render)
 * [Colored Balls](https://github.com/Real-hackbard/Screensavers/tree/main/Colored%20Balls)
 * [Spheres Up](https://github.com/Real-hackbard/Screensavers/tree/main/Spheres%20Up)
+* [Wonder Cubes](https://github.com/Real-hackbard/Screensavers/tree/main/Wonder%20Cubes)
 
 
 
