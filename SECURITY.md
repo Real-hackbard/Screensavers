@@ -30,6 +30,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Terrain Render |
 | 1.0.x   | :white_check_mark: Colored Balls |
 | 1.0.x   | :white_check_mark: Spheres Up |
+| 1.0.x   | :white_check_mark: Wonder Cubes |
 
 ## Reporting a Vulnerability
 
