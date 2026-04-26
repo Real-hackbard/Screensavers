@@ -32,6 +32,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Spheres Up |
 | 1.0.x   | :white_check_mark: Wonder Cubes |
 | 1.0.x   | :white_check_mark: Rose |
+| 1.0.x   | :white_check_mark: Gradient Bars |
 
 ## Reporting a Vulnerability
 
