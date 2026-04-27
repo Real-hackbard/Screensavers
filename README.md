@@ -67,6 +67,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Wonder Cubes](https://github.com/Real-hackbard/Screensavers/tree/main/Wonder%20Cubes)
 * [Rose](https://github.com/Real-hackbard/Screensavers/tree/main/Rose)
 * [Gradient Bars](https://github.com/Real-hackbard/Screensavers/tree/main/Gradient%20Bars)
+* [Lines](https://github.com/Real-hackbard/Screensavers/tree/main/Lines)
 
 
 
