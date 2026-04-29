@@ -35,6 +35,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Gradient Bars |
 | 1.0.x   | :white_check_mark: Lines |
 | 1.0.x   | :white_check_mark: Object |
+| 1.0.x   | :white_check_mark: Texture Cube |
 
 ## Reporting a Vulnerability
 
