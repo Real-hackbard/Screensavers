@@ -69,6 +69,7 @@ Thus the term "screen saver" is now something of a misnomer – the best way to 
 * [Gradient Bars](https://github.com/Real-hackbard/Screensavers/tree/main/Gradient%20Bars)
 * [Lines](https://github.com/Real-hackbard/Screensavers/tree/main/Lines)
 * [Object](https://github.com/Real-hackbard/Screensavers/tree/main/Object)
+* [Texture Cube](https://github.com/Real-hackbard/Screensavers/tree/main/Texture%20Cube)
 
 
 
